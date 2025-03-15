@@ -1,0 +1,74 @@
+[
+  {
+    "path": "fonts/Aller_Bd.ttf",
+    "hash": "ec478fc73747085c0b7028c642d992b1"
+  },
+  {
+    "path": "fonts/consola.ttf",
+    "hash": "5715d3f0bfcd28a4e008721a66118fe2"
+  },
+  {
+    "path": "fonts/FZKATJW.ttf",
+    "hash": "8b3dfe7bd75d91f0edebe0a58852a452"
+  },
+  {
+    "path": "fonts/FZSEJW.ttf",
+    "hash": "a8ec8b8fba2ed2ae0e777cf5ec353614"
+  },
+  {
+    "path": "fonts/FZSJ-QINGCRJ.ttf",
+    "hash": "ad8051d29ad09976a7c95e52fdf751f0"
+  },
+  {
+    "path": "fonts/FZXS14.ttf",
+    "hash": "428ab9de55a3a33cf8c3d3c58d60b552"
+  },
+  {
+    "path": "fonts/HiraginoMin-W5-90-RKSJ-H-2.ttf",
+    "hash": "7d33969f4d58ba474cb6ba637fa274db"
+  },
+  {
+    "path": "fonts/Neo Sans Bold.ttf",
+    "hash": "75558e35ebcc567edb75398a9b282e8d"
+  },
+  {
+    "path": "fonts/NotoSansSC-Bold.ttf",
+    "hash": "f8f91dd976cfe63e46490e63345e8c2e"
+  },
+  {
+    "path": "fonts/NotoSansSC-Regular.ttf",
+    "hash": "19498325f22381f551df06ce1b4cad4f"
+  },
+  {
+    "path": "fonts/NotoSerifSC-Bold.otf",
+    "hash": "098a12baf26c9713e850e1158763532b"
+  },
+  {
+    "path": "fonts/NotoSerifSC-Regular.otf",
+    "hash": "9c722c930ebf1e61e92053719ddbab64"
+  },
+  {
+    "path": "fonts/RoGSanSrfStd-Bd.otf",
+    "hash": "74f952bdb9fb069217e3bd9b7154b052"
+  },
+  {
+    "path": "fonts/上首方糖体.ttf",
+    "hash": "f477f680acc2caeacae56a82d544c5ce"
+  },
+  {
+    "path": "fonts/庞门正道粗书体.ttf",
+    "hash": "e453aa97485eee98587dd74d5cf11dbc"
+  },
+  {
+    "path": "images/ascension/0.png",
+    "hash": "e09e50c266c1e8babfe2c73612ac4200"
+  },
+  {
+    "path": "images/test/0.png",
+    "hash": "6aeff708baeb571c45ee7dfafcdc0063"
+  },
+  {
+    "path": "images/test/1.png",
+    "hash": "129c5f441638b93e48ca8c979bb65b13"
+  }
+]

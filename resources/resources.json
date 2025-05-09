@@ -383,6 +383,46 @@
       "hash": "ea4831f961281343e08a3ed427e5766d10e6f1925deeed80636c96553c9348c0"
     },
     {
+      "file": "big_do/0.png",
+      "hash": "01e8f44b8d6ad05ef3cc6b42b7f8783b55aa8d423041beb3cd93e038f4aa7688"
+    },
+    {
+      "file": "big_do/1.png",
+      "hash": "1c002cc70074308e0efa18dc002d843a13427f22fa418059fba5c607474b3d60"
+    },
+    {
+      "file": "big_do/2.png",
+      "hash": "7fdffd144f93c7abf3c0be6cf3854579328ba416d5705bc5eb714233cff73f45"
+    },
+    {
+      "file": "big_do/3.png",
+      "hash": "4383da48558b016940dbc27123c05765e6a0313c382a96f06a01e362bb46f2f8"
+    },
+    {
+      "file": "big_do/4.png",
+      "hash": "438a01b0d13f124b7f1900f829f2d5dbf99eca44c52ae2b1763dcde5ae378b44"
+    },
+    {
+      "file": "big_do/5.png",
+      "hash": "4f63a2fcc3bdcd7d6c63afd9c8084ff69d3a7d92b897601da546e0055006c6cb"
+    },
+    {
+      "file": "big_do/6.png",
+      "hash": "5cc3c613993bba93aab6bca92b3f9d0f9a69e1064f4c1077031cb2f12cccd89d"
+    },
+    {
+      "file": "big_do/7.png",
+      "hash": "d250369d64e540bc71e5ff5dafe37c9bbaac38a50bbf085c48693aae93fa4d94"
+    },
+    {
+      "file": "big_do/8.png",
+      "hash": "5d1fa0a6b525bdd7e82318968bafd376c7a14fa9e172f8d9a3edd8506de16f0c"
+    },
+    {
+      "file": "big_do/9.png",
+      "hash": "bcfe771354efe55e20ccfb88dee36b605300bf1d1adbadbef5d4faebb654df9b"
+    },
+    {
       "file": "bite/00.png",
       "hash": "91ef0ce434ccfd6b02ad69396316a702ae6f5454fe5b0ce96b2acbab1a1b14be"
     },
@@ -9037,6 +9077,18 @@
     {
       "file": "punch/12.png",
       "hash": "3c1e30410f3a211e35cc4e93c91ae28bd4d61fcc1f0a0bc850c651546711bcdb"
+    },
+    {
+      "file": "qi/0.png",
+      "hash": "fb1d5a375a53c6015646c297a75f9a5ad99410ed9fb23ad7d769b02cfb08f6e6"
+    },
+    {
+      "file": "qi/1.png",
+      "hash": "499cc6bbf670e9fa3e97da0faceb35bb6969adc2ef1c041c0404b85bedd8e1d3"
+    },
+    {
+      "file": "qi/2.png",
+      "hash": "8a49236c2c068ef69b6c1030cc072f474f8ee39a6c1f3324c442cf1776bda451"
     },
     {
       "file": "raise_image/0.png",

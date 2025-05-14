@@ -2015,6 +2015,10 @@
       "hash": "6967a81fa4c4c8d596a751029e2dd433dd49946738200f7124fabf5bdfac785d"
     },
     {
+      "file": "contract/0.png",
+      "hash": "b1e13ce481d57ee902f6caafe76b79fb5dc42790bc1560830b47d786810f2250"
+    },
+    {
       "file": "coupon/0.png",
       "hash": "e4d02200b1d2a5d6b525ddd7e9f3c561094c410582c89ae4ceeff96eda03e6d5"
     },
@@ -3549,6 +3553,10 @@
     {
       "file": "gif_subtitle/zengxiaoxian.gif",
       "hash": "64c25a6acff51a8c8f8caa82891f01122d5a46087087e34fc16bd29b2e8c2e23"
+    },
+    {
+      "file": "gong_xi_fa_cai/0.png",
+      "hash": "e8e3d0f7b4a58709bda0c3baf6dbb6166a8246939c6bbfc6bf6d25e9a9b52515"
     },
     {
       "file": "good_news/0.jpg",
@@ -12573,6 +12581,18 @@
     {
       "file": "youzi_question_mark/0.png",
       "hash": "484145338576864099bb7512cb2f349ecebfc81776cddfe94ef6b73dc6ffc807"
+    },
+    {
+      "file": "yuzu_soft_ayachi_nene/0.png",
+      "hash": "a540fed97b78ee967213f4c30d745517ec0c66e3a4a3fc78e93b497debea5d01"
+    },
+    {
+      "file": "yuzu_soft_murasame_clothes/0.png",
+      "hash": "dc8eff3df8b0de9ec187da9a4951441ff01d0c3b756b314b36f7b55451cdcb00"
+    },
+    {
+      "file": "yuzu_soft_murasame_say/0.png",
+      "hash": "2466a372350b0b5a5be2a99606b7c5b4fe8ac4a6dde467831d02ed2ae3b7298f"
     }
   ]
 }

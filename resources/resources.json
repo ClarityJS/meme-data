@@ -5739,6 +5739,10 @@
       "hash": "dfae8c9ac643b3f935e3c6c5bb61e5613e3e020befd881bb5099bef098247322"
     },
     {
+      "file": "mihoyo_elysia_come/0.png",
+      "hash": "3f69b14b220abe9bd2c0e8899d39ecafeea09bf15b923b9ebcb87402cd29b95f"
+    },
+    {
       "file": "mihoyo_funina_round_head/0.png",
       "hash": "209c6e255e5b283498485866991460cb3eb2a2c5bb48357627d3c3ada772c740"
     },
@@ -5765,6 +5769,10 @@
     {
       "file": "murasame_husband/0.png",
       "hash": "73e675476baf9e24fd443d527bc2323ba0d6978cb50283edd2e18a785d27e787"
+    },
+    {
+      "file": "murasame_like/0.png",
+      "hash": "4bb48640541049847485373d418e8135e99185b655fa33cd876a5cf505305ad8"
     },
     {
       "file": "my_friend/corner1.png",
@@ -9695,6 +9703,10 @@
       "hash": "91b5eecdf001ac0bb46a564b058583a4d6982279b9c7794595377850bbe2712b"
     },
     {
+      "file": "s_ninja/0.png",
+      "hash": "8bd3061722d769000d532635c30b03be1261a25291692afb76cc4a3ddf9fdbc7"
+    },
+    {
       "file": "safe_sense/0.png",
       "hash": "83f14a15818632417e14170e07ba15a4e15f39b3133b11bf96297ebbeb85e09c"
     },
@@ -9945,6 +9957,10 @@
     {
       "file": "speechless/sweat.png",
       "hash": "06b5730b3f9ec6335aa630fb5866eb809c940e2886e55503bcc14c188404d62c"
+    },
+    {
+      "file": "spend_christmas/0.png",
+      "hash": "0a030d5155bcd4e6d94cacad904c6ead5dd6e446201bffe9ff050e07c0e4cfb7"
     },
     {
       "file": "spider/00.png",
@@ -11015,6 +11031,10 @@
       "hash": "0c1ea790b60a72214ca1723a29df93864734553362679d8e99b3ce42f7253ce5"
     },
     {
+      "file": "swimsuit_group_photo/0.png",
+      "hash": "89352e452fa114b3985d5fbc80ce7fb248625ed2918a3e0bd6ad8eb5b535fbf8"
+    },
+    {
       "file": "tankuku_raisesign/00.png",
       "hash": "d7d2cecb1af1727fe6bb154e678bf5dca7635116251282a62d41ab483b5700ee"
     },
@@ -11731,6 +11751,10 @@
       "hash": "106f3262b0e6528ed8fa859d9faf5de764d9ab5be9110b366874e2e2e6fe1c76"
     },
     {
+      "file": "together_two/0.png",
+      "hash": "b9177b5086aceadb29ac3a363c459bfc4f2607cde988189b5c6884bc7c09c7eb"
+    },
+    {
       "file": "tom_tease/00.png",
       "hash": "041389342145a3b1b9fd3582d40489ba04890eec87d6e2680ed21ee24821d1be"
     },
@@ -11777,6 +11801,10 @@
     {
       "file": "tomb_yeah/0.jpg",
       "hash": "63fdd2cd622ac39d19502169d3fa6101e14235ffbca9fb1efeee6174323d660f"
+    },
+    {
+      "file": "torture_yourself/0.png",
+      "hash": "4f1056bef91588162b97e9564213705b97bc46ffd148cf6e787125ed799d2e3c"
     },
     {
       "file": "trolley/00.png",
@@ -12523,6 +12551,10 @@
       "hash": "2b58fb75d5687c5c6c5ca20b9b4b618756c1b607ee476b96ff38acf0bed1a82e"
     },
     {
+      "file": "xinxi_news/0.png",
+      "hash": "7a71c4fab8d606d104a2f259bef0b24227749db50fb187a6503f0758fac32f11"
+    },
+    {
       "file": "you_should_call/0.png",
       "hash": "e9c8d463ff5ce50efff21b3f5970f4d1fea4f19b8229227eb3c676d7dca0a241"
     },
@@ -12533,6 +12565,14 @@
     {
       "file": "youtube/corner.png",
       "hash": "ed5ce43ba155ca0018d3e815135f9ed2978ded336a16541a26ab6b6e98e4d05c"
+    },
+    {
+      "file": "youzi_kitchen/0.png",
+      "hash": "a627755f7ec65395056055e09c83314e419dbb42ada3dc5ad8078e305a395c80"
+    },
+    {
+      "file": "youzi_question_mark/0.png",
+      "hash": "484145338576864099bb7512cb2f349ecebfc81776cddfe94ef6b73dc6ffc807"
     }
   ]
 }

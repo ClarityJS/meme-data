@@ -135,6 +135,10 @@
       "hash": "790eeef8b9e4da8f22c285ffd1a8168f744b3e1000379be6c4c22a1dec0bba81"
     },
     {
+      "file": "aircraft_cup_machinery/0.png",
+      "hash": "b9c760580987614830636ea971db4b10373d9b3236bb7cbc745ce611aefa844d"
+    },
+    {
       "file": "aircraft_cup_pure_buttocks/0.png",
       "hash": "e345a0ad7678ffe78a73b48058ab97ba8e39d74d3ee28bd60337d31f91fed56b"
     },
@@ -929,6 +933,34 @@
     {
       "file": "capoo_strike/6.png",
       "hash": "fce28f0388be288e020e30221a6307e35b4731781eec814fcd07c9fba1253f8b"
+    },
+    {
+      "file": "capoozhao/0.png",
+      "hash": "8b92a00c59a94393de2a10509da32f0ad95b28d914c508a9ab62474b7543d4ef"
+    },
+    {
+      "file": "capoozhao/1.png",
+      "hash": "221e4f660aafa85905be08ada72a351dbab31108c594e08d254a00df33682d69"
+    },
+    {
+      "file": "capoozhao/2.png",
+      "hash": "199d47ea908a47d6a2cb1ac77fd465405a0248cce320628c5e46cabf327b4537"
+    },
+    {
+      "file": "capoozhao/3.png",
+      "hash": "e83fa78c327fe9c7803b693171e38e8bb26bdb78ae18e162b7d1d23f85fbbdaa"
+    },
+    {
+      "file": "capoozhao/4.png",
+      "hash": "8054732bffb8cd2f90952807bffc99e26ffbc3381a2241709fa6514aa2501221"
+    },
+    {
+      "file": "capoozhao/5.png",
+      "hash": "8f8decdd326108b248f74c32c8b326e5e6a3cc692a3e9af4fa402f7e7afc5e76"
+    },
+    {
+      "file": "capoozhao/6.png",
+      "hash": "96629f44fe713051e98bdab9a998c87bc540da77598badaa425544808bade341"
     },
     {
       "file": "captain/0.png",
@@ -4427,6 +4459,10 @@
       "hash": "6d541e55bbc3702565c808be3febb306c7255e61f4ece6c11164466ba53bd977"
     },
     {
+      "file": "ikun_why_are_you/0.jpg",
+      "hash": "ea62bf59276f5d44b5f30c6e01dd5cca7ad6b63fb4a77c269af0777689d9452b"
+    },
+    {
       "file": "image_subtitle/emperor_dragon.png",
       "hash": "a59113b07e8a459000ca98a1620cd71a7c0d580c6b1f9799b52762fb943379ca"
     },
@@ -5375,8 +5411,16 @@
       "hash": "41a1c48176d7926df77edd7c101590935b683766c183fa9e9ba6ad489d7927ac"
     },
     {
+      "file": "kurogames_rover_holdsign/0.png",
+      "hash": "dce714699a4974560ea1006add2e0c26c3277b6598e9f87fa922d6a45046d3de"
+    },
+    {
       "file": "kurogames_songlun/0.png",
       "hash": "72c48fe3f81153185e600db48988d2f31f247c90731130f19d90454844a45c74"
+    },
+    {
+      "file": "kurogames_songlun_holdsigh/0.jpg",
+      "hash": "3dbe28c31a788e8661e31f43a6bcc1c4b9dd475fef49f5f6f0ee4c2cb1672351"
     },
     {
       "file": "lash/0.png",

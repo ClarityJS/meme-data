@@ -13830,5 +13830,27 @@
       "file": "yuzu_soft_murasame_say/0.png",
       "hash": "2466a372350b0b5a5be2a99606b7c5b4fe8ac4a6dde467831d02ed2ae3b7298f"
     }
+  ],
+  "avatars": [
+    {
+      "file": "01.png",
+      "hash": "50d89282b5ce09aa60fb3f4a954e915d1ac90bcc254c2ebc0cb2d85974172180"
+    },
+    {
+      "file": "02.png",
+      "hash": "dab3ffc7e6acc2bd1750a962c25f728ab9ef36ca527ec84c328e33e4b426624a"
+    },
+    {
+      "file": "03.png",
+      "hash": "458439c45151ca584ed79e5dedca4cd7fe5d1183f1070bb27df1d398d7cbf2e4"
+    },
+    {
+      "file": "04.png",
+      "hash": "1ac976ea0eb6af2f59127aad2acf693a51d0409263f5384849901f5ab8fd323a"
+    },
+    {
+      "file": "05.png",
+      "hash": "fcbe661b3cf4a85048709c839c9e39a6b7e7382c5f1a73a6acc3ad6ad26e556c"
+    }
   ]
 }

@@ -275,6 +275,10 @@
       "hash": "ff4e9d49329b98eb36a79e712095e88585facd17eee3af854d475f208f7e6f0e"
     },
     {
+      "file": "atri_finger/0.jpg",
+      "hash": "94fc48515b3f827fad41add963cec0793fd19bcd9fe46b54a43344954ed763ee"
+    },
+    {
       "file": "atri_like/0.png",
       "hash": "a8ee8834806e9bd811fadc619c0fbe62678b53d6a7cb3fc10f7c709ffc9c7a6d"
     },
@@ -5407,8 +5411,16 @@
       "hash": "0aed07507476803c5a0a6ac8a974d3ae3ebfea28028ff3ff6a9dbbf408daf24c"
     },
     {
+      "file": "kurogames_carlotta_holdsign/0.png",
+      "hash": "37a2007ffba24efec65fa131e5b8ef934151a0316f390be3efed7042f0fb88e4"
+    },
+    {
       "file": "kurogames_mp/0.png",
       "hash": "41a1c48176d7926df77edd7c101590935b683766c183fa9e9ba6ad489d7927ac"
+    },
+    {
+      "file": "kurogames_phoebe_say/0.jpg",
+      "hash": "604d8d043cfb474333dc7a3b3cdc271c146d388bcce731752c3f300317828234"
     },
     {
       "file": "kurogames_rover_holdsign/0.png",
@@ -5419,8 +5431,8 @@
       "hash": "72c48fe3f81153185e600db48988d2f31f247c90731130f19d90454844a45c74"
     },
     {
-      "file": "kurogames_songlun_holdsigh/0.jpg",
-      "hash": "3dbe28c31a788e8661e31f43a6bcc1c4b9dd475fef49f5f6f0ee4c2cb1672351"
+      "file": "kurogames_songlun_holdsigh/0.png",
+      "hash": "198ed4a6741cb0a0abe4663670c62a318c428c981b5494f29f999bce51e0e506"
     },
     {
       "file": "lash/0.png",
@@ -6149,6 +6161,10 @@
     {
       "file": "mihoyo_genshin_impact_players/0.png",
       "hash": "8740bdadf34212078e88e22b7027f470a36ae719de02d69a00974f5680f2244e"
+    },
+    {
+      "file": "mihoyo_liuwei_holdsign/0.jpg",
+      "hash": "a91855075d93372fc9202408ca245e330d7fa48ee3f5256b1f71c4552f3bb79f"
     },
     {
       "file": "mix_dog/0.png",
@@ -13821,6 +13837,14 @@
     {
       "file": "yuzu_soft_ayachi_nene/0.png",
       "hash": "a540fed97b78ee967213f4c30d745517ec0c66e3a4a3fc78e93b497debea5d01"
+    },
+    {
+      "file": "yuzu_soft_holdsign/0.jpg",
+      "hash": "5e51fb5df07c7906ba75ba2c99331044fd536af80c7edf2e338c7a1fce3523a1"
+    },
+    {
+      "file": "yuzu_soft_mako_hitachi_holdsign/0.png",
+      "hash": "0c038f05715eda2f5dadc3c5b2dcdca10183cada96a922715b7f81851859f992"
     },
     {
       "file": "yuzu_soft_murasame_clothes/0.png",

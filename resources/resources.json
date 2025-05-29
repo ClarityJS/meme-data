@@ -2603,10 +2603,6 @@
       "hash": "f572cec7866de666c260ada3403b05de2d843266e2be10b5262605b366b5256b"
     },
     {
-      "file": "deer_help/0.png",
-      "hash": "598d7fce6889dacde64613ddd8063cf029709157e84ab8ad7e04b09e2276079a"
-    },
-    {
       "file": "dinosaur/0.png",
       "hash": "63d7e73536de927cd8be538e9aef94121740b857e612778421497f096e4c9f21"
     },
@@ -3245,10 +3241,6 @@
     {
       "file": "frieren_take/0.png",
       "hash": "2a5b838ca9bbe806a0862f61baf0585f25a4c8f660e1ac66b294d90cf20cff22"
-    },
-    {
-      "file": "funina_finger/0.png",
-      "hash": "64394b815a9d2d9cb3758849b88eaf314615da9267ca44594e1c13777f6147a3"
     },
     {
       "file": "garbage/00.png",
@@ -4483,6 +4475,10 @@
       "hash": "6d541e55bbc3702565c808be3febb306c7255e61f4ece6c11164466ba53bd977"
     },
     {
+      "file": "ikun_like/0.png",
+      "hash": "0aed07507476803c5a0a6ac8a974d3ae3ebfea28028ff3ff6a9dbbf408daf24c"
+    },
+    {
       "file": "ikun_why_are_you/0.jpg",
       "hash": "ea62bf59276f5d44b5f30c6e01dd5cca7ad6b63fb4a77c269af0777689d9452b"
     },
@@ -5431,12 +5427,12 @@
       "hash": "c3fa6a37418ec960680a68673e044fe5c6d45dc647270df063c81e8a7dcaf23f"
     },
     {
-      "file": "kun_like/0.png",
-      "hash": "0aed07507476803c5a0a6ac8a974d3ae3ebfea28028ff3ff6a9dbbf408daf24c"
-    },
-    {
       "file": "kurogames_carlotta_holdsign/0.png",
       "hash": "37a2007ffba24efec65fa131e5b8ef934151a0316f390be3efed7042f0fb88e4"
+    },
+    {
+      "file": "kurogames_lingyang_holdsign/0.png",
+      "hash": "56b2084df06fd9a28b8e6fcae436ba0ccf7b0f40898c60d1ea49cba11d8abf27"
     },
     {
       "file": "kurogames_mp/0.png",
@@ -5449,6 +5445,10 @@
     {
       "file": "kurogames_phoebe_score_sheet/0.png",
       "hash": "20b9a91c987599c008b67d91fc3af85f928c6ccee714dd27065499e9badb8b2b"
+    },
+    {
+      "file": "kurogames_rover_head/0.png",
+      "hash": "48a3eaff472b230f3bcf50034da1d58015a300414cbc679386a2b4550efd552a"
     },
     {
       "file": "kurogames_rover_holdsign/0.png",
@@ -6191,6 +6191,10 @@
       "hash": "1b158c386f08173fb94f2718e5b1e4b450c96ab6ddd8d40180845a033bf8e806"
     },
     {
+      "file": "mihoyo_funina_finger/0.png",
+      "hash": "64394b815a9d2d9cb3758849b88eaf314615da9267ca44594e1c13777f6147a3"
+    },
+    {
       "file": "mihoyo_funina_round_head/0.png",
       "hash": "209c6e255e5b283498485866991460cb3eb2a2c5bb48357627d3c3ada772c740"
     },
@@ -6249,18 +6253,6 @@
     {
       "file": "murasame_blackboard/0.png",
       "hash": "d7fbd59cdbe83278d9d8f7f7a37cf113ec695b616eefe64c0b83510f7c4ec7f2"
-    },
-    {
-      "file": "murasame_dislike/0.png",
-      "hash": "d31620ac536b5bb61503d1a506d96c445786e353049776448b5f0edeb7eda3f0"
-    },
-    {
-      "file": "murasame_husband/0.png",
-      "hash": "73e675476baf9e24fd443d527bc2323ba0d6978cb50283edd2e18a785d27e787"
-    },
-    {
-      "file": "murasame_like/0.png",
-      "hash": "4bb48640541049847485373d418e8135e99185b655fa33cd876a5cf505305ad8"
     },
     {
       "file": "my_certificate/0.png",
@@ -6513,6 +6505,10 @@
     {
       "file": "name_generator/0.png",
       "hash": "c96334a60faf1baaffd5324b089548f28fedacdcc3e9915d9efb9cc9ae26f96b"
+    },
+    {
+      "file": "naruro_s_ninja/0.png",
+      "hash": "5335d09104bb35db488c6e85500fb80da13747a4026c02bd461599f5dd23b8a4"
     },
     {
       "file": "need/0.png",
@@ -10703,10 +10699,6 @@
       "hash": "91b5eecdf001ac0bb46a564b058583a4d6982279b9c7794595377850bbe2712b"
     },
     {
-      "file": "s_ninja/0.png",
-      "hash": "8bd3061722d769000d532635c30b03be1261a25291692afb76cc4a3ddf9fdbc7"
-    },
-    {
       "file": "safe_sense/0.png",
       "hash": "83f14a15818632417e14170e07ba15a4e15f39b3133b11bf96297ebbeb85e09c"
     },
@@ -10889,6 +10881,10 @@
     {
       "file": "shadow_boxing/5.png",
       "hash": "67e06928ccca5180ac25bcc3d60ada8cf73bd552774d8955fe41000f7bfd3420"
+    },
+    {
+      "file": "shikanoko_noko/0.png",
+      "hash": "e4be2f7b8f45f3a80f399d50c036d8ed2135a8f4404cc277b3bf04e9db0f2f9f"
     },
     {
       "file": "shiroko_pero/0.png",
@@ -13867,14 +13863,6 @@
       "hash": "ed5ce43ba155ca0018d3e815135f9ed2978ded336a16541a26ab6b6e98e4d05c"
     },
     {
-      "file": "youzi_kitchen/0.png",
-      "hash": "a627755f7ec65395056055e09c83314e419dbb42ada3dc5ad8078e305a395c80"
-    },
-    {
-      "file": "youzi_question_mark/0.png",
-      "hash": "484145338576864099bb7512cb2f349ecebfc81776cddfe94ef6b73dc6ffc807"
-    },
-    {
       "file": "yuzu_soft_ayachi_nene/0.png",
       "hash": "a540fed97b78ee967213f4c30d745517ec0c66e3a4a3fc78e93b497debea5d01"
     },
@@ -13887,12 +13875,36 @@
       "hash": "0c038f05715eda2f5dadc3c5b2dcdca10183cada96a922715b7f81851859f992"
     },
     {
+      "file": "yuzu_soft_murasame_blackboard/0.jpg",
+      "hash": "2a08a4710847c42bf9976d1b27209d781c84297580d1c68cda1caf1c265e93ad"
+    },
+    {
       "file": "yuzu_soft_murasame_clothes/0.png",
       "hash": "dc8eff3df8b0de9ec187da9a4951441ff01d0c3b756b314b36f7b55451cdcb00"
     },
     {
+      "file": "yuzu_soft_murasame_dislike/0.png",
+      "hash": "d31620ac536b5bb61503d1a506d96c445786e353049776448b5f0edeb7eda3f0"
+    },
+    {
+      "file": "yuzu_soft_murasame_finger/0.png",
+      "hash": "a627755f7ec65395056055e09c83314e419dbb42ada3dc5ad8078e305a395c80"
+    },
+    {
+      "file": "yuzu_soft_murasame_husband/0.png",
+      "hash": "73e675476baf9e24fd443d527bc2323ba0d6978cb50283edd2e18a785d27e787"
+    },
+    {
+      "file": "yuzu_soft_murasame_like/0.png",
+      "hash": "4bb48640541049847485373d418e8135e99185b655fa33cd876a5cf505305ad8"
+    },
+    {
       "file": "yuzu_soft_murasame_say/0.png",
       "hash": "2466a372350b0b5a5be2a99606b7c5b4fe8ac4a6dde467831d02ed2ae3b7298f"
+    },
+    {
+      "file": "yuzu_soft_shocked/0.png",
+      "hash": "484145338576864099bb7512cb2f349ecebfc81776cddfe94ef6b73dc6ffc807"
     }
   ],
   "avatars": [

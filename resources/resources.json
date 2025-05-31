@@ -2879,6 +2879,82 @@
       "hash": "f2975df9337fcf13f64209d64a25bdbebe2ef98d6b6038abaefda3f710243bc1"
     },
     {
+      "file": "doroti/0.png",
+      "hash": "6ea84b0683f09b8af4d45ca4a10cff0d1604ecdca5f1d682ab1d80eef62de88d"
+    },
+    {
+      "file": "doroti/1.png",
+      "hash": "2295b030749fd20e61127c975a421f71b09f3af76c91e50a98643be122267e5a"
+    },
+    {
+      "file": "doroti/10.png",
+      "hash": "77a18b8b1fd98d26c83836f96b1e8b2f6d3a2ae41457afc57b11876575297821"
+    },
+    {
+      "file": "doroti/11.png",
+      "hash": "f6bc9983978ff840a2f0335dc49b7711a705002b2997bc438811e4a0f7cbbaa6"
+    },
+    {
+      "file": "doroti/12.png",
+      "hash": "e1012ba265a0b819ee405e3d8a3b70962fe5a482faa2cdb2b01d447a7b3f2d60"
+    },
+    {
+      "file": "doroti/13.png",
+      "hash": "99b05d67e121ca1dafdd22b3765570d6655214e23434380e135d07092beb65c4"
+    },
+    {
+      "file": "doroti/14.png",
+      "hash": "518bf38a1ae37e24f7e6f255f8a0abdf003e73744b80dc486855defc7b9fca12"
+    },
+    {
+      "file": "doroti/15.png",
+      "hash": "0ce610594a2a35fd14a4f5b39ef97f18629a08f7a16dd58dc1ad1e7361b7b628"
+    },
+    {
+      "file": "doroti/16.png",
+      "hash": "a9e881b1cc364847086cb0bf991497948392f3dcc6e43419ae29a06ef1a34907"
+    },
+    {
+      "file": "doroti/17.png",
+      "hash": "67fd38c6547aa74669139ff7162b801674c8fc750dba39e944f2947c99f6e957"
+    },
+    {
+      "file": "doroti/18.png",
+      "hash": "8a2a9155ea815db008a6af21612e1f4c327b2a27042eb7dfa3da20683f0fc196"
+    },
+    {
+      "file": "doroti/2.png",
+      "hash": "0c6eb7abe38c0e5e5ddbf165463797ad7b05166cf354738b8f662adbe6dff387"
+    },
+    {
+      "file": "doroti/3.png",
+      "hash": "875b4a2c58a738ba31dfb829aaa4c7b5a3ee237254a8c7fe57cb1290c23d8422"
+    },
+    {
+      "file": "doroti/4.png",
+      "hash": "6cb012ba976c67196dcd23f7c9642260906f8841b4f9ace7918a141df20172c8"
+    },
+    {
+      "file": "doroti/5.png",
+      "hash": "1d7592409754d781f7362b6932c132192df107040030ca822ce14e9fc4c5da62"
+    },
+    {
+      "file": "doroti/6.png",
+      "hash": "0f1c68b14e2a451512be110b6319a20ad93a80768d300cb124231574356f33a4"
+    },
+    {
+      "file": "doroti/7.png",
+      "hash": "171c7910eceeba8e3a81e74d69c6a9313ae6fcba1d0c3857129c914415b6b8fd"
+    },
+    {
+      "file": "doroti/8.png",
+      "hash": "1ec88091d8e944c0a2faad346aa5832ea19006ae14e025fbb9d48d05d5340547"
+    },
+    {
+      "file": "doroti/9.png",
+      "hash": "8848ddf031c7ad19fbbd1a4fa85c88d0eced84ad68ad957458157ed78e100260"
+    },
+    {
       "file": "duidi/0.png",
       "hash": "e8fc5bad103c70890600463890d5472739f8928b0bd093534edb9241755128a2"
     },
@@ -11613,6 +11689,250 @@
     {
       "file": "spider/51.png",
       "hash": "9b6ac734c201c4437a540c1154e0790a81bb068e437d237ea00404ca9dffa986"
+    },
+    {
+      "file": "spike_spinebuster/0.png",
+      "hash": "7e3753957f650ae596b3e5d3b56ec4844fede604cc429522108dcb7c50636a44"
+    },
+    {
+      "file": "spike_spinebuster/1.png",
+      "hash": "5daa21f87607895c57ada75fa6afc239f5eda909fa7fa42fccdd6a846ab38d88"
+    },
+    {
+      "file": "spike_spinebuster/10.png",
+      "hash": "51d5c95816a8d4a6cbd0e44877c810ef727e82f2005f9d3974f80a78f4b27970"
+    },
+    {
+      "file": "spike_spinebuster/11.png",
+      "hash": "f51d63709c0cf1984c90830d85056d59428c6fda720e5b2a471f7c33ddd8ac82"
+    },
+    {
+      "file": "spike_spinebuster/12.png",
+      "hash": "48dd4a0cf0e787003afc10ef9defd5e366f2c71846b75b76b1fe1d3803360b3b"
+    },
+    {
+      "file": "spike_spinebuster/13.png",
+      "hash": "b35edbdcf1fb5ea7f9cff859edb20c9c3754b879a5132ef38b5882daca5589b0"
+    },
+    {
+      "file": "spike_spinebuster/14.png",
+      "hash": "370c48812c1042fe001277a6b922274e46c65edd9b66aa8b3e483c3649cd4881"
+    },
+    {
+      "file": "spike_spinebuster/15.png",
+      "hash": "ac4ca1a0b944103465bbad87de8220efc2f2e32b06d31c74bbdb70c55726cba2"
+    },
+    {
+      "file": "spike_spinebuster/16.png",
+      "hash": "87004f0ff7e01cbd6d5d11e150d642f022ba79f90e337a084faba6367d84de72"
+    },
+    {
+      "file": "spike_spinebuster/17.png",
+      "hash": "544ab1031c7cf5995815a3474aaee021b7e6ec5624e395c8e5c6815645b67fdf"
+    },
+    {
+      "file": "spike_spinebuster/18.png",
+      "hash": "f58b67d0f36362db5d75f6307aaf2a8cbfaffa2708100a876784a9fd85f493a1"
+    },
+    {
+      "file": "spike_spinebuster/19.png",
+      "hash": "2a5a630d16e62bfdc6aa54b827ca51e05e3c7a34b822c212688994976e995377"
+    },
+    {
+      "file": "spike_spinebuster/2.png",
+      "hash": "7b38c7c7af64c182e4fb960e8223c6d21415b1fccd64d0645aeca532fd9307d8"
+    },
+    {
+      "file": "spike_spinebuster/20.png",
+      "hash": "a937babbc09123d5e5c3175b71bfa36a059f9f900c248664b55665ac81f4cf94"
+    },
+    {
+      "file": "spike_spinebuster/21.png",
+      "hash": "7f97e576dbad7d9f3c8a6880989ad8aff15b7f39f4d0f02f92587f8b9e2ee894"
+    },
+    {
+      "file": "spike_spinebuster/22.png",
+      "hash": "2e098605c0b4f2ac29e149b3ddd96b71786c4ae9636b0b641b4c2e5f244274e2"
+    },
+    {
+      "file": "spike_spinebuster/23.png",
+      "hash": "5b2f4cd2d5ccce513aca90a75de03ff3f8ea2568195faff1ecad08f508acd9d9"
+    },
+    {
+      "file": "spike_spinebuster/24.png",
+      "hash": "d15dd93f2b86159a89e7c1a8b6f5f0f0f089f749920aff69fe8583f715f440fc"
+    },
+    {
+      "file": "spike_spinebuster/25.png",
+      "hash": "4cf6b779605ad8eb6cb1050ab7dacad7f0770e81e9e2943f517260e7f499d628"
+    },
+    {
+      "file": "spike_spinebuster/26.png",
+      "hash": "85b5bbd282b14830ea4c6744fa7bacea5f47da6b93411535e75598e9e8587ca4"
+    },
+    {
+      "file": "spike_spinebuster/27.png",
+      "hash": "354792c2afc44b3c2a34b99c1ac3e25cbf01739d875db6f39dcc9f270542b5db"
+    },
+    {
+      "file": "spike_spinebuster/28.png",
+      "hash": "370f63ea1e2efe081544a35a8570a787be7dffec8f663663b241197c926b6b0f"
+    },
+    {
+      "file": "spike_spinebuster/29.png",
+      "hash": "41e0dbbd884695f2d1e00ed038b3fc80f2288b5d3e84fea01381db4cdb52bbaf"
+    },
+    {
+      "file": "spike_spinebuster/3.png",
+      "hash": "d31dd924ea0e470c3c6248c0ca38ed1629181d09fbc4e0ee6a36f10228ac1f6b"
+    },
+    {
+      "file": "spike_spinebuster/30.png",
+      "hash": "bd479344a14822e2fc59b02dcc66c3be1343ca5bac5f5e80a2fa8c14fe5b6521"
+    },
+    {
+      "file": "spike_spinebuster/31.png",
+      "hash": "50308f7f28ce8cd5677751a607e84c4dfced2db54700fba96fe7c3c6a6e34686"
+    },
+    {
+      "file": "spike_spinebuster/32.png",
+      "hash": "ea15e87d27e2c5e31cafa8ef03e0cbe250eeea217bc8cbb7133400780ca64120"
+    },
+    {
+      "file": "spike_spinebuster/33.png",
+      "hash": "9a93807d62be27318529ad8fc326031491ea6f61ea6d823bb85134c2582f60f9"
+    },
+    {
+      "file": "spike_spinebuster/34.png",
+      "hash": "769b73bad1614a5e174e32c8179e4f685ffb88002ec4192f7cac12f406d93233"
+    },
+    {
+      "file": "spike_spinebuster/35.png",
+      "hash": "23c3d964cb9278ac8941553cf5c27ec1c661b56ec2389a1a6f19beefd2af2a13"
+    },
+    {
+      "file": "spike_spinebuster/36.png",
+      "hash": "3a454aba56f0ee9f527762943d8e6d835fd8afc46921d07e28ae4913c31eba3e"
+    },
+    {
+      "file": "spike_spinebuster/37.png",
+      "hash": "203d5abed181bd160fb996ae728ba01fa9d8b7d2bb077df5b45fbc38912affb8"
+    },
+    {
+      "file": "spike_spinebuster/38.png",
+      "hash": "6aece8da32314fdda3b12613e559170a7c5d4f804a631a0e7b8eed469fefad2c"
+    },
+    {
+      "file": "spike_spinebuster/39.png",
+      "hash": "42f5d19aa2c73c5f39815c1bc578c097565e868ce05f899e5f32a3a513bd52a8"
+    },
+    {
+      "file": "spike_spinebuster/4.png",
+      "hash": "63f88ee48a53d7470f029ed72403e63d8a438736127b7ad122b3a49c9da86482"
+    },
+    {
+      "file": "spike_spinebuster/40.png",
+      "hash": "d903918aa2c54b707a96f278f5995e5c4b39301a6884140dba3f308c9e3b0fe9"
+    },
+    {
+      "file": "spike_spinebuster/41.png",
+      "hash": "cdd0a42f69e0bc9e4535fdce82b19bb720cc612c4354fbe9f11ce6e390aadef8"
+    },
+    {
+      "file": "spike_spinebuster/42.png",
+      "hash": "0f2282e2f18535178f0571327be75e40dde5f0f152be1c01f882bff3dc2fb1b9"
+    },
+    {
+      "file": "spike_spinebuster/43.png",
+      "hash": "1e6168835f7dc975920672e36c3e83eb74cb6381eab429ef3c5f1818dd110f27"
+    },
+    {
+      "file": "spike_spinebuster/44.png",
+      "hash": "4ed089fd188a301f5b19cc0c66c4995baf7a3a70fcffe0d26c0c42828e7a36b7"
+    },
+    {
+      "file": "spike_spinebuster/45.png",
+      "hash": "9ccb46375b4f77d1a573a7c6a6fef0ce3f63be5b6f1e911e53087b05a394ff85"
+    },
+    {
+      "file": "spike_spinebuster/46.png",
+      "hash": "6521e0f9af96166a59f15ce6a2a6dcf2dd8ca18386660296394fd083f1f738e9"
+    },
+    {
+      "file": "spike_spinebuster/47.png",
+      "hash": "18d6891a7e3fc2d084622c2e02d39f7ffb2ec0ee61e7bfa0d68fc6e0249845a0"
+    },
+    {
+      "file": "spike_spinebuster/48.png",
+      "hash": "e89d98c0d2cd92baf32a2f1a56edeb02154a8c9eac651b9fe57923f2dd28930e"
+    },
+    {
+      "file": "spike_spinebuster/49.png",
+      "hash": "1ac59fb3115eff3fea78f45a6c1282251e4ca93899d18e95f97cf845b95f7482"
+    },
+    {
+      "file": "spike_spinebuster/5.png",
+      "hash": "bc9d66267bd33968513880cd9f3d0cd9353154fca0144b426623fc498e8ce7c1"
+    },
+    {
+      "file": "spike_spinebuster/50.png",
+      "hash": "e17b372041653a55057e031d13498351ca82709a2a4c4e830def44af4ad7e146"
+    },
+    {
+      "file": "spike_spinebuster/51.png",
+      "hash": "9a61d680a603c4aad904ef1918792caac59e46d6b14b31a01556d30b0ddc93aa"
+    },
+    {
+      "file": "spike_spinebuster/52.png",
+      "hash": "0686dc409644615b2b30c74e3ebc440b69587df62957af16ce08d82220e6d6a3"
+    },
+    {
+      "file": "spike_spinebuster/53.png",
+      "hash": "0cc856b8f4eddaa7e4e8504dfce368348bdd3081f86fca21ba8f887550bae1fa"
+    },
+    {
+      "file": "spike_spinebuster/54.png",
+      "hash": "8a3e5c986b2fafbe5073523243bd54269dfd8b86cf29d5b3b402eaf79d3ead9b"
+    },
+    {
+      "file": "spike_spinebuster/55.png",
+      "hash": "51703e6d079a644f7ec77d473b497fd68dac187460acd8832b3f04ab740fed7a"
+    },
+    {
+      "file": "spike_spinebuster/56.png",
+      "hash": "857dd9c95c29f9e28b9a624a8b5e7e3096f4eeb2d3809f37d85abbfc794b5472"
+    },
+    {
+      "file": "spike_spinebuster/57.png",
+      "hash": "8c5fdd8b1863ed82e1b10f84794f70ad408b4003bb6193e9602a1b6bb1d67ef9"
+    },
+    {
+      "file": "spike_spinebuster/58.png",
+      "hash": "805015c0345eda6d8916c90c6b0534809cdf84f78c11162d4cc7c4f6a6d83236"
+    },
+    {
+      "file": "spike_spinebuster/59.png",
+      "hash": "f57e06dbff3c247f109d73e973fa2464aba77341d5596b4e1b2231495653d142"
+    },
+    {
+      "file": "spike_spinebuster/6.png",
+      "hash": "6a929ed4413aa21468e8930dfd0fe08bc86a3278dd3a37876bdcbbeed40d914f"
+    },
+    {
+      "file": "spike_spinebuster/60.png",
+      "hash": "2fcf24ce5adb191757405243712f7817377a33b0a3f9ce934c6f5a6fd081cf93"
+    },
+    {
+      "file": "spike_spinebuster/7.png",
+      "hash": "b27e3e41666f0532e2e4845918fd457f300412d84620edf763ef2856cce0a66d"
+    },
+    {
+      "file": "spike_spinebuster/8.png",
+      "hash": "0d746d30ac433cefd975f9d0b9b87e1f6e74fedb7df699e4955d492cedb4d151"
+    },
+    {
+      "file": "spike_spinebuster/9.png",
+      "hash": "6beb0115cb824ec3c884a429afe2568d952e30f3205b34ab352c3fa8f877f903"
     },
     {
       "file": "steam_message/logo.png",
